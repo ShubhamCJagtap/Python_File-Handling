@@ -1,4 +1,3 @@
 andy@gmail.com,1234
-shubham@gmail.com,Shubhu@9744
 abc@yahoo.com,Test@123
 asad@gmail.com,Test@321
